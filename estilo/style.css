@@ -186,6 +186,6 @@ footer p {
 }
 
 footer a {
-    text-decoration: none;
-    color: var(--cor02);
+    text-decoration: underline;
+    color: var(--cor05);
 }
